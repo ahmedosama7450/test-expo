@@ -1,6 +1,6 @@
 # Like my tweet
 
-Expo app with IAP. It will like or retweet your tweet for as little as 1 or 2 dollars.
+Just testing out expo. This is an expo app with IAP. It will like or retweet your tweet for as little as 1 or 2 dollars.
 
 ## How to run locally
 
