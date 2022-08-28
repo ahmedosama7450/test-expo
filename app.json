@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "like-my-tweet",
+    "slug": "like-my-tweet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "like-my-tweet"
+}
